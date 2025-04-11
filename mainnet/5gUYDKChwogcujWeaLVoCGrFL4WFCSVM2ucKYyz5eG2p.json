@@ -1,0 +1,18 @@
+{
+  "chainId": 101,
+  "address": "5gUYDKChwogcujWeaLVoCGrFL4WFCSVM2ucKYyz5eG2p",
+  "symbol": "GOPEPE",
+  "name": "GOPEPE",
+  "decimals": 9,
+  "logoURI": "https://raw.githubusercontent.com/pepejavashop/bean-assets/main/logo.png",
+  "tags": [
+    "meme",
+    "community",
+    "coffee"
+  ],
+  "extensions": {
+    "website": "https://pepejavashop.github.io/bean-landing/",
+    "twitter": "https://twitter.com/pepejavashop",
+    "github": "https://github.com/pepejavashop"
+  }
+}
